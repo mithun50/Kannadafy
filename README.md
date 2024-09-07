@@ -1,2 +1,0 @@
-# Kannadafy
-KGH
