@@ -4,11 +4,11 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="Kannadafy",
+    name="kannadafy",
     version="0.1",
     license="MIT",
-    py_modules=["Kannadafy"],  # For a single Python file
-    author="MithunGowda.B",
+    py_modules=["kannadafy"],  # For a single Python file
+    author="MithunGowda.B, Manvanth",
     author_email="mithungowda.b7411@gmail.com",
     description="Obfuscate your Python script by converting it to Kannada language",
     long_description=long_description,
