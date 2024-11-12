@@ -65,9 +65,9 @@ pip install .
 
 Once installed, *Kannadafy* can be run from the command line to obfuscate your Python scripts. Here's how:
 
-bash
+```bash
 python -m Kannadafy -i input_script.py -o obfuscated_script.py
-
+```
 
 Where:
 - -i or --input: The input Python script that you want to obfuscate.
@@ -78,15 +78,15 @@ Where:
 
 You can use the -v flag to check the version of *Kannadafy*:
 
-bash
+```bash
 python -m Kannadafy -v
-
+```
 
 ### Using Kannadafy in Your Code 🧑‍💻
 
 You can also use *Kannadafy* directly in your Python code for more flexibility. For example:
 
-python
+```python
 from Kannadafy import obfuscate
 
 # Specify input and output file paths
@@ -97,7 +97,7 @@ output_file = "obfuscated_script.py"
 obfuscate(input_file, output_file)
 
 print(f"Your script has been obfuscated and saved as {output_file}")
-
+```
 
 Here, you can programmatically obfuscate Python code by importing the obfuscate function from the Kannadafy module and calling it with the input and output file paths.
 
@@ -105,19 +105,19 @@ Here, you can programmatically obfuscate Python code by importing the obfuscate 
 
 Let’s say you have a Python script like this:
 
-python
+```python
 print("Hello, World!")
-
+```
 
 Run this command to obfuscate it:
 
-bash
+```bash
 python -m Kannadafy -i hello.py -o obfuscated_hello.py
-
+```
 
 This will generate a file obfuscated_hello.py that looks like this (an obfuscated Kannada version):
 
-python
+```python
 exec("".join(map(chr,[int("".join(str({'ಅ': 0,
  'ಅ:': 14,
  'ಅಂ': 13,
@@ -170,7 +170,7 @@ exec("".join(map(chr,[int("".join(str({'ಅ': 0,
 "ಆ ಆ ಇ  ಆ ಆ ಉ  ಆ ಅ ಊ  ಆ ಆ ಅ  ಆ ಆ ಋ  ಉ ಅ  ಈ ಉ  ಎ ಇ  ಆ ಅ ಆ  ಆ ಅ ಏ  ಆ ಅ ಏ \
  ಆ ಆ ಆ  ಉ ಉ  ಈ ಇ  ಏ ಎ  ಆ ಆ ಆ  ಆ ಆ ಉ  ಆ ಅ ಏ  ಆ ಅ ಅ  ಈ ಈ  ಈ ಉ  ಉ ಆ  ಆ ಅ"
 .split("  ")])))
-
+```
 
 
 It will still print "Hello, World!" when executed, but good luck reading that code! 😎
