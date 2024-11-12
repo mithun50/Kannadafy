@@ -43,18 +43,18 @@ Ready to Kannadafy your code? Here’s how to get started:
 
 If *Kannadafy* is available on PyPI (soon!), just run:
 
-bash
+```bash
 pip install Kannadafy
-
-
+```
 ### Install from Source (for the daring ones)
 
 If you want to tinker with the source or if *Kannadafy* isn’t on PyPI yet, you can install it directly from GitHub:
 
-bash
+```bash
 git clone https://github.com/mithun50/Kannadafy.git
 cd Kannadafy
 pip install .
+```
 
 
 ---
