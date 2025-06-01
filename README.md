@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 <div align="center">
-  <img src="assets/logo_enhanced_v2.png" alt="Kannadafy Logo v2.0.9" width="600" />
+  <img src="assets/logo_enhanced.png" alt="Kannadafy Logo v2.0.9" width="600" />
 
   <h1>🚀 Kannadafy v2.0.9 🚀</h1>
   <h3>ಸಾಫ್ಟ್‌ವೇರ್ ಮತ್ತು ಭಾಷೆಯ ಸಂಗಮ</h3>
