@@ -10,11 +10,15 @@
 **Kannadafy** transforms ordinary Python code into mysterious yet fully functional scripts using Kannada characters or themed wordlists. Your code keeps working exactly as before but appears as an elegant tapestry of linguistic art.
 
 > **IMPORTANT DISCLAIMER - VERSION 2.0.9 LIMITATIONS**
-> This version only supports **ONE-WAY TRANSFORMATION** (obfuscation).
-> Deobfuscation is not yet available and will be added in an upcoming release!
-> ⚠️ Once obfuscated, there is **NO WAY** to automatically recover your original code.
-> **ALWAYS BACKUP YOUR ORIGINAL CODE BEFORE OBFUSCATION!**
 
+
+> This version only supports *ONE-WAY TRANSFORMATION* (obfuscation).  
+> Deobfuscation is not yet available and will be added in an upcoming release!  
+> ⚠️ Once obfuscated, there is *NO WAY* to automatically recover your original code.  
+> *ALWAYS BACKUP YOUR ORIGINAL CODE BEFORE OBFUSCATION!*  
+>  
+> 🔓 For experimental deobfuscation support, check out:  
+> [Kannadafy-deobfuscator](https://github.com/Seeking-jpg/Kannadafy-deobfuscator)
 ## Features
 
 - 📜 **Script Obfuscation**: Transform code with beautiful Kannada, Telugu, Tamil, Devanagari, or Greek scripts
