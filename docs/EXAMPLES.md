@@ -490,3 +490,5 @@ Created with 💖 by:
 ---
 
 ⚠️ **REMEMBER**: Once a file is obfuscated with Kannadafy v2.0.9, it CANNOT be automatically deobfuscated. Always keep backups of your original code!
+> 🔓 For experimental deobfuscation support, check out:  
+> [Kannadafy-deobfuscator](https://github.com/Seeking-jpg/Kannadafy-deobfuscator)
