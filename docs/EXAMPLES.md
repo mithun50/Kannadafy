@@ -3,6 +3,10 @@
 This file contains practical examples showcasing different ways to use Kannadafy.
 
 > ⚠️ **IMPORTANT DISCLAIMER**: The current version (2.0.9) only supports obfuscation. Deobfuscation functionality will be added in a future release. Once obfuscated, there is **NO WAY** to automatically recover your original code. **ALWAYS BACKUP YOUR ORIGINAL CODE BEFORE OBFUSCATION!**
+>
+> 
+> **🔓 For experimental deobfuscation support, check out:  
+> [Kannadafy-deobfuscator](https://github.com/Seeking-jpg/Kannadafy-deobfuscator)**
 
 > 📝 **COMMAND USAGE NOTE**: Throughout this examples guide, the commands are shown in the direct format (`Kannadafy command`). On Windows or when using multiple Python environments, you may need to use the Python module format: `python -m Kannadafy command`. Both formats are functionally identical.
 
