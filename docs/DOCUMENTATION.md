@@ -4,7 +4,16 @@
 
 This comprehensive documentation covers all aspects of Kannadafy, from installation to advanced usage.
 
-> ⚠️ **IMPORTANT DISCLAIMER**: This version (2.0.9) only supports obfuscation. There is NO WAY to automatically recover your original code once it has been obfuscated. ALWAYS BACKUP YOUR ORIGINAL CODE BEFORE OBFUSCATION! Deobfuscation functionality is planned for release in  next version .
+> ⚠️ **IMPORTANT DISCLAIMER**:
+
+> This version only supports *ONE-WAY TRANSFORMATION* (obfuscation).  
+> Deobfuscation is not yet available and will be added in an upcoming release!  
+> ⚠️ Once obfuscated, there is *NO WAY* to automatically recover your original code.  
+> *ALWAYS BACKUP YOUR ORIGINAL CODE BEFORE OBFUSCATION!*  
+>  
+> 🔓 For experimental deobfuscation support, check out:  
+> [Kannadafy-deobfuscator](https://github.com/Seeking-jpg/Kannadafy-deobfuscator)
+> 
 
 ## Table of Contents
 
